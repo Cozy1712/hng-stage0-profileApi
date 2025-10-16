@@ -1,1 +1,23 @@
 __pycache__/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# Django
+*.log
+staticfiles/
+media/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
