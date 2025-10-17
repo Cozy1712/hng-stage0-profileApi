@@ -68,7 +68,7 @@ python manage.py runserver
 ### 5. Access the endpoint
 Open your browser or API testing tool (like Postman) and visit:
 ```
-Your app will be running at: 👉 [http://127.0.0.1:8000/me]
+Your app will be running at: 👉 (http://127.0.0.1:8000/me) [(https://profileapi-46kr.onrender.com)]
 
 ```
 ---
